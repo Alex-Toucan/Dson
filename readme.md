@@ -14,6 +14,18 @@ Did you ever want a better version of JSON? This library is for you then!
 3. Better Speed and compatibility
 
 # Examples
+
+```
+import 'Dson.dart';
+
+void main() async {
+  String filePath = 'file.json';
+  Map<String, dynamic> json = await JsonParser.parseFile(filePath);
+  print(json);
+}
+
+```
+
 ## Functions
 'parsefile(FILENAME);` - Parses a File\
 
