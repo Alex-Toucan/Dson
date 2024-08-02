@@ -1,5 +1,5 @@
 # DSON
-DSON aka PynxSON is my extension of the JSON library for Dart.
+DSON (also known as PynxSON) is my extension of the JSON library for Dart.
 Did you ever want a better version of JSON? This library is for you then!
 
 # How To Install?
@@ -14,7 +14,7 @@ Did you ever want a better version of JSON? This library is for you then!
 3. Better Speed and compatibility
 
 # Examples
-
+**More coming soon**
 ```
 import 'Dson.dart';
 
